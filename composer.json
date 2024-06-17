@@ -1,5 +1,5 @@
 {
-    "name": "orumad/laravel-spanish-validator",
+    "name": "kineticamobile/laravel-spanish-validator",
     "description": "Laravel validator for spanish stuff: NIF, NIE, CIF, NSS, IBAN, Postal Code, Phone numbers",
     "keywords": [
         "orumad",
@@ -8,7 +8,7 @@
         "laravel package",
         "laravel validator"
     ],
-    "homepage": "https://github.com/orumad/laravel-spanish-validator",
+    "homepage": "https://github.com/kineticamobile/laravel-spanish-validator",
     "license": "MIT",
     "authors": [
         {
